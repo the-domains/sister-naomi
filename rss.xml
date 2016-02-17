@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[sister naomi]]></title>
         <description><![CDATA[sister naomi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sister-naomi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 21:50:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 22:21:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sister-naomi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4846119-828a-4cdf-a615-c4876abcf8a2.png">]]></description>
+            <link>https://thegrid.ai/sister-naomi/5d2f228a-118d-4e51-996d-7756e7ecb826/index.html</link>
+            <guid isPermaLink="false">5d2f228a-118d-4e51-996d-7756e7ecb826</guid>
+            <pubDate>Wed, 17 Feb 2016 22:20:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/611902f4-ade6-4a57-a165-b16ea87507e7.png">]]></description>
